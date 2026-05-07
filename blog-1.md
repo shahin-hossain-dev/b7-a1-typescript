@@ -1,8 +1,6 @@
-## কেন TypeScript এ অচেনা টইপের ডাটা গুলোকে `unknown` টাইপ ব্যবহার করতে হবে। এবং **type narrowing** বলতে কি বুঝায়।
+## কেন TypeScript এ অচেনা টইপের ডাটা গুলোকে `unknown` টাইপ ব্যবহার করতে হবে এবং type narrowing বলতে কি বুঝায়?
 
 **TypeScript-এ সবচেয়ে ভুল বোঝা দুটো জিনিস:** `any` type এবং **type narrowing**।
-
----
 
 ### আমরা সবাই `any` দিয়ে শুরু করেছি
 
